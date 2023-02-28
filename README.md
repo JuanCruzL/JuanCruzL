@@ -1,7 +1,7 @@
-<h1 align="center"><b>Hi , I'm Abdul Khalid </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Juan Cruz Laumann </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Juan+Cruz+Laumann;+Full-stack+Developer;Active+Learner/Researcher;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
@@ -20,6 +20,11 @@
 - Currently learning CyberSecurity
 - Personal website [link](https://www.linkedin.com/in/juan-cruz-laumann-7775a3238/)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://docs.google.com/document/d/1OZahGL4aT32m15lPZQu_KE5yaXj0dSsYH_IBzW6GjVY/edit?usp=sharing)
+- Proactive
+- Curious
+- Leadership
+- Versatility
+- Teamwork
 
 <br><br>
 
@@ -39,6 +44,8 @@
    <img src="https://camo.githubusercontent.com/0566752248b4b31b2c4bdc583404e41066bd0b6726f310b73e1140deefcc31ac/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67" alt="express" title="Express Js" height="40" data-canonical-src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" style="max-width: 100%;">
    <img src="https://camo.githubusercontent.com/2717985f26463c118a5e93fd5ab74cbafe4dd5c9e9a9ca4bf2af249baf4d92a7/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f322f32392f506f737467726573716c5f656c657068616e742e7376672f3132303070782d506f737467726573716c5f656c657068616e742e7376672e706e67" alt="postgresql" title="PostgreSQL" width="40" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" style="max-width: 100%;">
    <img src="https://camo.githubusercontent.com/06f97b25efca5672ab1d820aee5aac996af25a4f15ac4556243dad191acce42d/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f522f72656163742d6c6f676f2d374233434538313531372d7365656b6c6f676f2e636f6d2e706e67" alt="react" title="React Js" width="40" height="40" data-canonical-src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" style="max-width: 100%;">
+	<img src="https://camo.githubusercontent.com/bdc7538096526da40b0e1e252cb5c790b07b8320b222708c708927d531a6206f/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f522f72656475782d6c6f676f2d394341363833364331322d7365656b6c6f676f2e636f6d2e706e67" alt="redux" title="Redux" width="40" height="40" data-canonical-src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" style="max-width: 100%;">
+	<img src="https://camo.githubusercontent.com/9255dba4a9ad5a906afd63a77b2d3498cbd7fa527008a417968683f5e8e545b2/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f342f34632f547970657363726970745f6c6f676f5f323032302e7376672f3132303070782d547970657363726970745f6c6f676f5f323032302e7376672e706e67" alt="TypeScript" title="TypeScript" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" style="max-width: 100%;">
 <br>
 
     
@@ -56,21 +63,10 @@
 
 </p>
 
-<br>
-<br>
-
------
-
-<br>
 
 </div>
 
-<br>
-<br>
-<br>
-
------
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <br>
 <br>
 
@@ -113,8 +109,5 @@
 <br>
 <br>
 <br>
-<br>
-
----
 
 <br>
