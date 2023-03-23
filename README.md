@@ -17,7 +17,7 @@
 <br>
 
 - A passionate Full-stack web developer
-- Currently learning CyberSecurity
+- Currently learning React Native
 - Personal website [link](https://www.linkedin.com/in/juan-cruz-laumann-7775a3238/)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://docs.google.com/document/d/1OZahGL4aT32m15lPZQu_KE5yaXj0dSsYH_IBzW6GjVY/edit?usp=sharing)
 - Proactive
